@@ -2,7 +2,7 @@
 
 - 🌱 I’m learning Malware Analysis in my spare time
 - ⚡ Fun fact about me: BTW i use Arch :)
-- 🔭 I’m currently studying for my SEC+ exam
+- 🔭 I’m currently improving my scripting and programming skills with python
 - 💬 Contact me via Briar: briar://ab3gvvp3e3a7sp7wld7jw5jhztsn5de244mxnthuob5dq46mffaug
 
 #### Languages
