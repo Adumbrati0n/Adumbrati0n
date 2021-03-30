@@ -1,8 +1,8 @@
 <h1 align="center">Hello Friend 👋</h1>
 
-- 🌱 I’m learning Malware Analysis in my spare time
+- 🌱 I’m learning Malware Analysis and DFIR in my spare time
 - ⚡ Fun fact about me: BTW i use Arch :)
-- 🔭 I’m currently improving my scripting and programming skills with python
+- 🔭 I’m currently improving my scripting and programming skills with python/bash
 - 💬 Contact me via Briar: briar://ab3gvvp3e3a7sp7wld7jw5jhztsn5de244mxnthuob5dq46mffaug
 
 #### Languages
