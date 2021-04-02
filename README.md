@@ -3,7 +3,7 @@
 - 🌱 I’m learning Malware Analysis and DFIR in my spare time
 - ⚡ Fun fact about me: BTW i use Arch :)
 - 🔭 I’m currently improving my scripting and programming skills with python/bash
-- 💬 Contact me: Email - Adumbration@tuta.io    Twitter-ADUMBRATION_        Briar: briar://ab3gvvp3e3a7sp7wld7jw5jhztsn5de244mxnthuob5dq46mffaug
+- 💬 Contact me: Email - Adumbration@tuta.io    Twitter-ADUMBRATION_ 
 
 #### Languages
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
