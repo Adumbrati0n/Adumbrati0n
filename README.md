@@ -2,7 +2,7 @@
 
 - 🌱 I’m learning Malware Analysis and DFIR in my spare time
 - ⚡ Fun fact about me: BTW i use Arch :)
-- 🔭 I’m currently improving my scripting and programming skills with python/bash
+- 🔭 I’m currently improving my scripting and programming skills with python/bash and learning assembly
 - 💬 Contact me: Email - Adumbration[at]tuta[dot]io    Twitter- @ADUMBRATION_ 
 
 #### Languages
